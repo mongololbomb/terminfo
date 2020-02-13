@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/nhooyr/terminfo/caps"
+	"github.com/mongololbomb/terminfo/caps"
 )
 
 // TODO look at unibillium tests
