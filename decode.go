@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/nhooyr/terminfo/caps"
+	"github.com/mongololbomb/terminfo/caps"
 )
 
 // These are the decoding errors.
