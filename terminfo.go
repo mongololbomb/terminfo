@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/nhooyr/terminfo/caps"
+	"github.com/mongololbomb/terminfo/caps"
 )
 
 // Terminfo describes a terminal's capabilities.
